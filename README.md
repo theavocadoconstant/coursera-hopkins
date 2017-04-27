@@ -1,1 +1,1 @@
-# coursera-hopkins
+# modric-coursera
